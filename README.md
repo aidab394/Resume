@@ -381,19 +381,19 @@
 				<table width="1200" border="1">
 					<tr>
 						<td align="right" width="200">First Name: </td>
-						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="101" required></td>
+						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="50" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Surname: </td>
-						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="101" required></td>
+						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="50" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">E-mail: </td>
-						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="101" maxlength="30" required></td>
+						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="50" maxlength="30" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Message: </td>
-						<td align="left" width="1000"><textarea cols="104" maxlength="1000" rows="10" placeholder="Please type Your message here."></textarea></td>
+						<td align="left" width="1000"><textarea cols="100" maxlength="1000" rows="10" placeholder="Please type Your message here."></textarea></td>
 					</tr>
 					<tr>
 						<td width="200"></td>
