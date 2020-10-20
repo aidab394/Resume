@@ -347,7 +347,7 @@
 							<li><b>Meeting Point</b><br>
 							Improvement of the High School's Courtyard, implemented by USAID; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; April, 2016</li>
 							<li><b>Ne želim ništa nego jednu ruku (bos. I Don't Want Anything but One Hand)</b><br>
-							Short story, published by <i>Grammar School Bugojno</i> in a book <i>A Collection of Students' Stories</i>; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 6th April, 2017</li>
+							Short story, published by <i>Grammar School Bugojno</i> in a book <i>A Collection of Students' Stories</i>; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 6<sup>th</sup> April, 2017</li>
 							<li><b>SAME LLC</b><br>
 							Minimum Viable Service Project for Understanding Business course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2019</li>
 							<li><b>ATM Software</b><br>
@@ -367,11 +367,11 @@
 					<li><u>Trainings, Seminars, Conferences</u>
 						<ul>
 							<li><b>Hydro-power Plants and River Protection in Western Balkans</b><br>
-							<i>Friends of the Earth</i>; Šolta, Croatia; 8th - 13th July, 2017</li>
+							<i>Friends of the Earth</i>; Šolta, Croatia; 8<sup>th</sup> - 13<sup>th</sup> July, 2017</li>
 							<li><b>Techniques and Ways to Combat Discrimination in the Society</b><br>
-							<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
+							<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9<sup>th</sup> - 10<sup>th</sup> November, 2017</li>
 							<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
-							<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
+							<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15<sup>th</sup> - 17<sup>th</sup> October, 2020</li>
 						</ul>
 					</li>
 				</ul>
