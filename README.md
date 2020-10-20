@@ -55,6 +55,41 @@
 				</tr>
 			</table>
 	<hr>
+			<h2>Education</h2>
+			<table border="1">
+				<tr bgcolor="#4c69ab">
+					<th>Level of Education</th>
+					<th>Academic Title</th>
+					<th>Faculty/Department/Program</th>
+					<th>School</th>
+					<th>GPA</th>
+					<th>Period</th>
+				</tr>
+				<tr bgcolor="#4c69ab">
+					<td>Bachelor</td>
+					<td>Junior Student</td>
+					<td><abbr title="Faculty of Engineering and Natural Sciences">FENS</abbr>, Electrical Engineering and Electronics</td>
+					<td><i><a href="https://www.ius.edu.ba/">International University of Sarajevo</a></i>, Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>3.73</td>
+					<td>2018</td>
+				</tr>
+				<tr bgcolor="#4c69ab">
+					<td>High School</td>
+					<td>Valedictorian</td>
+					<td></td>
+					<td><i><a href="http://gimnazija.bugojno.org/">Grammar School Bugojno</a></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>4.0</td>
+					<td>2014-2018</td>
+				</tr>
+				<tr bgcolor="#4c69ab">
+					<td>Primary School</td>
+					<td>Valedictorian</td>
+					<td></td>
+					<td><i><a href="https://trecaosnovna.bugojno.org/">Third Primary School</a></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>4.0</td>
+					<td>2006-2014</td>
+				</tr>
+			</table>
 	<h2>Work Experience</h2>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
@@ -74,42 +109,6 @@
 			</tr>
 		</table>
 	<hr>
-	<h2>Education</h2>
-		<table border="1">
-			<tr bgcolor="#4c69ab">
-				<th>Level of Education</th>
-				<th>Academic Title</th>
-				<th>Faculty/Department/Program</th>
-				<th>School</th>
-				<th>GPA</th>
-				<th>Period</th>
-			</tr>
-			<tr>
-				<td>Bachelor</td>
-				<td>Junior Student</td>
-				<td><abbr title="Faculty of Engineering and Natural Sciences">FENS</abbr>, Electrical Engineering and Electronics</td>
-				<td><i><a href="https://www.ius.edu.ba/">International University of Sarajevo</a></i>, Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-				<td>3.73</td>
-				<td>2018-</td>
-			</tr>
-			<tr>
-				<td>High School</td>
-				<td>Valedictorian</td>
-				<td></td>
-				<td><i><a href="http://gimnazija.bugojno.org/">Grammar School Bugojno</a></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-				<td>4.0</td>
-				<td>2014-2018</td>
-			</tr>
-			<tr>
-				<td>Primary School</td>
-				<td>Valedictorian</td>
-				<td> </td>
-				<td><i><a href="https://trecaosnovna.bugojno.org/">Third Primary School<a/></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-				<td>4.0</td>
-				<td>2006-2014</td>
-			</tr>
-			</table>
-	<hr>
 	<h2>Personal Skills</h2>
 		<ul>
 			<li><u>Skills</u>
@@ -121,7 +120,7 @@
 					<li><b>Languages:</b><br>
 						<table border="1">
 							<tr bgcolor="#4c69ab" align="center">
-								<th rowspan="2">Language</th>
+								<th rowspan="2" width=>Language</th>
 								<th colspan="2">UNDERSTANDING</th>
 								<th colspan="2">SPEAKING	</th>
 								<th rowspan="2">WRITING</th>
