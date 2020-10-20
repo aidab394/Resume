@@ -90,6 +90,7 @@
 					<td>2006-2014</td>
 				</tr>
 			</table>
+			<hr/>
 	<h2>Work Experience</h2>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
@@ -117,15 +118,15 @@
 					C, C++, MATLAB</li>
 					<li><b>Simulating softwares:</b><br>
 					AutoCAD, Multisim, Simulink, Sonnet</li>
-					<li><b>Languages:</b><br>
-						<table border="1">
+					<li><b>Languages:</b></li><br>
+						<table border="1" align="center">
 							<tr bgcolor="#4c69ab" align="center">
-								<th rowspan="2" width=>Language</th>
+								<th rowspan="2">Language</th>
 								<th colspan="2">UNDERSTANDING</th>
-								<th colspan="2">SPEAKING	</th>
+								<th colspan="2">SPEAKING</th>
 								<th rowspan="2">WRITING</th>
 							</tr>
-							<tr bgcolor="#9aabdb" align="center">
+							<tr bgcolor="#4c69ab" align="center">
 								<th>Listening</th>
 								<th>Reading</th>
 								<th>Spoken Interaction</th>
@@ -168,7 +169,6 @@
 								<td>A1</td>
 							</tr>
 						</table>
-					</li>
 					<li><b>Driving licence:</b><br>
 					B, B1</li>
 					<li><b>Other skills:</b><br>
