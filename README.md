@@ -119,7 +119,7 @@
 					<li><b>Simulating softwares:</b><br>
 					AutoCAD, Multisim, Simulink, Sonnet</li>
 					<li><b>Languages:</b></li><br>
-						<table border="1" align="center">
+						<table border="1" align="center" width="1200">
 							<tr bgcolor="#4c69ab" align="center">
 								<th rowspan="2">Language</th>
 								<th colspan="2">UNDERSTANDING</th>
