@@ -54,8 +54,10 @@
 					width="450" height="300" style="border:0;"></iframe></td>
 				</tr>
 			</table>
+		</blockquote>
 	<hr>
 	<h2>Education</h2>
+		<blockquote>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
 				<th>Level of Education</th>
@@ -90,6 +92,7 @@
 				<td>2006-2014</td>
 			</tr>
 		</table>
+			</blockquote>
 	<hr>
 	<h2>Work Experience</h2>
 		<blockquote>
