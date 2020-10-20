@@ -330,7 +330,7 @@
 						<td>Belgrade, Serbia</td>
 						<td>22<sup>nd</sup>-24<sup>th</sup>April, 2017</td>
 					</tr>
-				</table>
+				</table></li>
 	<hr>
 	<h2>Projects and Conferences/Seminars</h2>
 		<ul>
@@ -363,7 +363,7 @@
 					<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
 					<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
 					<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
-				</ul>
+				</ul></ul>
 	<hr>
 	<h2>Contact me:</h2>
 		<form type="get">
