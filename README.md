@@ -1,15 +1,15 @@
 <html lang="en">
  <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="A resume of Aida Bevrnja">
 	<meta name="keywords" content="resume, cv, Aida Bevrnja">
 	<meta http-equiv="author" content="Aida Bevrnja">
-   <title>Aida Bevrnja - Resume</title>
-  <!--
+ 	<title>Aida Bevrnja - Resume</title>
+  	<!--
 		Name: Aida Bevrnja
 		Course: CS412 - Web Application Development
-	  Department/Faculty: EE/FENS
+		Department/Faculty: EE/FENS
 		Assignment: Project 1
 		Due date: 25th October, 2020
 		Purpose: To make a skeleton of the Resume using HTML only
@@ -32,7 +32,7 @@
 			<u>Phone</u>: +38762861092<br>
 			<u>Facebook</u>: <a href="https://www.facebook.com/BevrnjaAida">Aida Bevrnja</a><br>
 			<u>Instagram</u>: <a href="https://www.instagram.com/aida_b394">@aida_b394</a> and 
-							  <a href="https://www.instagram.com/slytherin_bookworm">@slytherin_bookworm</a><br>
+					  <a href="https://www.instagram.com/slytherin_bookworm">@slytherin_bookworm</a><br>
 			<u>Addresses</u>:
 			<table>
 				<tr align="center">
@@ -89,9 +89,9 @@
 				<td>4.0</td>
 				<td>2006-2014</td>
 			</tr>
-		</table>
+			</table>
 	<hr>
-	<h2>Work Experience</h2>
+			<h2>Work Experience</h2>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
 				<th>Title</th>
