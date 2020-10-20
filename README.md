@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
  <head>
   <meta charset="utf-8">
@@ -17,7 +16,7 @@
 	-->
  </head>
  <body>
-  <img src="banner4.jpg" alt="Header image" height="550" align="top">
+  <img src="banner4.jpg" alt="Header image" height="450" align="top">
 		<h2>Biography</h2>
 			<blockquote>
 				Aida Bevrnja is a Bachelor Student of Electrical Engineering and Electronics at the International University of Sarajevo.
@@ -46,51 +45,49 @@
 					</tr>
 						<td align="center">Bosnia and Herzegovina</td>
 						<td align="center">Bosnia and Herzegovina</td>
-					</td>
+					</tr>
 				</table>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1433.7997019402615!2d17.452126970953213!3d44.05032993918234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475fa6ee806ea5b3%3A0x4b7e9141aa03e469!2sJakli%C4%87%20I%2C%20Bugojno!5e0!3m2!1sbs!2sba!4v1603210555545!5m2!1sbs!2sba" 
-						width="600" height="450" style="border:0;"></iframe>
+						width="450" height="300" style="border:0;"></iframe>
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4230.55566704163!2d18.31044427075536!3d43.82059317114921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa14d6099047dafb9!2sInternacionalni%20Univerzitet%20u%20Sarajevu!5e0!3m2!1sbs!2sba!4v1603210325825!5m2!1sbs!2sba" 
-						width="600" height="450" style="border:0;"></iframe>
+						width="450" height="300" style="border:0;"></iframe>
 			</blockquote>
 		<hr>
 		<h2>Education</h2>
-			<blockquote>
-				<table border="1">
-					<tr bgcolor="#4c69ab">
-						<th>Level of Education</th>
-						<th>Academic Title</th>
-						<th>Faculty/Department/Program</th>
-						<th>School</th>
-						<th>GPA</th>
-						<th>Period</th>
-					</tr>
-					<tr>
-						<td>Bachelor</td>
-						<td>Junior Student</td>
-						<td><abbr title="Faculty of Engineering and Natural Sciences">FENS</abbr>, Electrical Engineering and Electronics</td>
-						<td><i><a href="https://www.ius.edu.ba/">International University of Sarajevo</a></i>, Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>3.73</td>
-						<td>2018-</td>
-					</tr>
-					<tr>
-						<td>High School</td>
-						<td>Valedictorian</td>
-						<td></td>
-						<td><i><a href="http://gimnazija.bugojno.org/">Grammar School Bugojno</a></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>4.0</td>
-						<td>2014-2018</td>
-					</tr>
-					<tr>
-						<td>Primary School</td>
-						<td>Valedictorian</td>
-						<td> </td>
-						<td><i><a href="https://trecaosnovna.bugojno.org/">Third Primary School<a/></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>4.0</td>
-						<td>2006-2014</td>
-					</tr>
-				</table>
-			</blockquote>
+			<table border="1">
+				<tr bgcolor="#4c69ab">
+					<th>Level of Education</th>
+					<th>Academic Title</th>
+					<th>Faculty/Department/Program</th>
+					<th>School</th>
+					<th>GPA</th>
+					<th>Period</th>
+				</tr>
+				<tr>
+					<td>Bachelor</td>
+					<td>Junior Student</td>
+					<td><abbr title="Faculty of Engineering and Natural Sciences">FENS</abbr>, Electrical Engineering and Electronics</td>
+					<td><i><a href="https://www.ius.edu.ba/">International University of Sarajevo</a></i>, Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>3.73</td>
+					<td>2018-</td>
+				</tr>
+				<tr>
+					<td>High School</td>
+					<td>Valedictorian</td>
+					<td></td>
+					<td><i><a href="http://gimnazija.bugojno.org/">Grammar School Bugojno</a></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>4.0</td>
+					<td>2014-2018</td>
+				</tr>
+				<tr>
+					<td>Primary School</td>
+					<td>Valedictorian</td>
+					<td> </td>
+					<td><i><a href="https://trecaosnovna.bugojno.org/">Third Primary School<a/></i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+					<td>4.0</td>
+					<td>2006-2014</td>
+				</tr>
+			</table>
 		<hr>
 		<h2>Work Experience</h2>
 			<blockquote>
@@ -268,7 +265,6 @@
 									<td>6<sup>th</sup> April, 2016</td>
 								</tr>
 							</table></li>
-					</ul>
 				<li><u>Physics</u>
 					<table border="1">
 						<tr bgcolor="#4c69ab" align="center">
@@ -335,7 +331,6 @@
 							<td>22<sup>nd</sup>-24<sup>th</sup>April, 2017</td>
 						</tr>
 					</table>
-			</ul>
 		<hr>
 		<h2>Projects and Conferences/Seminars</h2>
 			<ul>
@@ -368,7 +363,6 @@
 						<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
 						<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
 						<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
-					</ul>
 			</ul>
 		<hr>
 		<h2>Contact me:</h2>
@@ -376,7 +370,7 @@
 				<table>
 					<tr>
 						<td align="right">First Name: </td>
-						<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30"required></td>
+						<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
 					</tr>
 					<tr>
 						<td align="right">Surname: </td>
