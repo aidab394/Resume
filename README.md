@@ -16,7 +16,7 @@
 	-->
  </head>
  <body>
- 	<img src="banner4.jpg" alt="Header image" height="450" align="top">
+ 	<img src="banner4.jpg" alt="Header image" height="470" align="top">
 	<h2>Biography</h2>
 		<blockquote>
 			Aida Bevrnja is a Bachelor Student of Electrical Engineering and Electronics at the International University of Sarajevo.
@@ -91,7 +91,7 @@
 			</tr>
 		</table>
 	<hr>
-	<h2>Work Experience</h2
+	<h2>Work Experience</h2>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
 				<th>Title</th>
@@ -197,7 +197,7 @@
 			<li><u>English Language and Literature</u>
 				<ul>
 					<li><b>Grammar and Literature</b>
-						<table border="1">
+						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
 								<th>Place</th>
 								<th>Level</th>
@@ -242,7 +242,7 @@
 							</tr>
 						</table>
 					<li><b>Spelling Bee</b>
-						<table border="1">
+						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
 								<th>Place</th>
 								<th>Level</th>
@@ -266,7 +266,7 @@
 							</tr>
 						</table></li>
 			<li><u>Physics</u>
-				<table border="1">
+				<table border="1" width="600">
 					<tr bgcolor="#4c69ab" align="center">
 						<th>Place</th>
 						<th>Level</th>
@@ -297,7 +297,7 @@
 					</tr>
 				</table>
 			<li><u>Economy and Management</u>
-				<table border="1">
+				<table border="1" width="600">
 					<tr bgcolor="#4c69ab" align="center">
 						<th>Place</th>
 						<th>Level</th>
