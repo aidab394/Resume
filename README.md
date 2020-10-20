@@ -27,7 +27,7 @@
 		</blockquote>
 	<hr>
 	<h2>Contact Information</h2>
-		<blockquote>
+		<p>
 			<u>E-mail</u>: <a href="mailto:a.bevrnja@outlook.com">a.bevrnja@outlook.com<a/><br>
 			<u>Phone</u>: +38762861092<br>
 			<u>Facebook</u>: <a href="https://www.facebook.com/BevrnjaAida">Aida Bevrnja</a><br>
@@ -54,7 +54,7 @@
 					width="450" height="300" style="border:0;"></iframe></td>
 				</tr>
 			</table>
-		</blockquote>
+		</p>
 	<hr>
 	<h2>Education</h2>
 		<blockquote>
