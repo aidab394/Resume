@@ -378,7 +378,7 @@
 		<hr>
 		<h2>Contact me:</h2>
 			<form type="get">
-				<table width="1200">
+				<table width="1200" border="1">
 					<tr>
 						<td align="right" width="200">First Name: </td>
 						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
