@@ -16,7 +16,7 @@
 	-->
  </head>
  <body>
- 	<img src="banner4.jpg" alt="Header image" height="600" width="1200" align="top">
+ 	<img src="banner4.jpg" alt="Header image" height="550" width="1200" align="top">
 	<h2>Biography</h2>
 		<blockquote>
 			Aida Bevrnja is a Bachelor Student of Electrical Engineering and Electronics at the International University of Sarajevo.
@@ -393,7 +393,7 @@
 					</tr>
 					<tr>
 						<td align="right" width="200">Your Message: </td>
-						<td align="left" width="1000"><textarea cols="99" maxlength="1000" rows="10" placeholder="Please type Your message."></textarea></td>
+						<td align="left" width="1000"><textarea cols="101" maxlength="1000" rows="10" placeholder="Please type Your message."></textarea></td>
 					</tr>
 					<tr>
 						<td width="200"></td>
