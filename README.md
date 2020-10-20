@@ -116,7 +116,7 @@
 					<ul>
 						<li><b>Programming languages:</b><br>
 							C, C++, MATLAB</li>
-						<li><b>Simulating softwares:</b><br>
+						<li><b>Simulation softwares:</b><br>
 						AutoCAD, Multisim, Simulink, Sonnet</li>
 						<li><b>Languages:</b></li><br>
 							<table border="1">
