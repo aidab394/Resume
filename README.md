@@ -378,26 +378,26 @@
 		<hr>
 		<h2>Contact me:</h2>
 			<form type="get">
-				<table>
-					<tr width="600">
-						<td align="right">First Name: </td>
-						<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
+				<table width="1200">
+					<tr>
+						<td align="right" width="200">First Name: </td>
+						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
 					</tr>
-					<tr width="600">
-						<td align="right">Surname: </td>
-						<td align="left"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" required></td>
+					<tr>
+						<td align="right" width="200">Surname: </td>
+						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" required></td>
 					</tr>
-					<tr width="600">
-						<td align="right">Your E-mail: </td>
-						<td align="left"><input type="text" name="Email" placeholder="example@example.com" maxlength="30" required></td>
+					<tr>
+						<td align="right" width="200">Your E-mail: </td>
+						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" maxlength="30" required></td>
 					</tr>
-					<tr width="600">
-						<td align="right">Your Message: </td>
-						<td align="left"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
+					<tr>
+						<td align="right" width="200">Your Message: </td>
+						<td align="left" width="1000"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
 					</tr>
-					<tr width="600">
-						<td></td>
-						<td align="left"><input type="submit" value="Send"><input type="reset" value="Reset"></td>
+					<tr>
+						<td width="200"></td>
+						<td align="left" width="1000"><input type="submit" value="Send"><input type="reset" value="Reset"></td>
 					</tr>
 				</table>
 			</form>
