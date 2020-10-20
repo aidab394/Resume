@@ -339,39 +339,41 @@
 						</table>
 					</li>
 				</ul>
-		<hr>
-	<h2>Projects and Conferences/Seminars</h2>
-		<ul>
-			<li><u>Projects</u>
+			<hr>
+			<h2>Projects, Conferences and Seminars</h2>
 				<ul>
-					<li><b>Meeting Point</b><br>
-					Improvement of the High School's Courtyard, implemented by USAID; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; April, 2016</li>
-					<li><b>Ne želim ništa nego jednu ruku (bos. I Don't Want Anything but One Hand)</b><br>
-					Short story, published by <i>Grammar School Bugojno</i> in a book <i>A Collection of Students' Stories</i>; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 6th April, 2017</li>
-					<li><b>SAME LLC</b><br>
-					Minimum Viable Service Project for Understanding Business course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2019</li>
-					<li><b>ATM Software</b><br>
-					Project for Object-Oriented Programming course, done in C++; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January, 2020</li>
-					<li><b>Slotted Heart-shaped 4.77dB Microstrip Coupler</b><br>
-					Project for Electromagnetism I course, to-be-published; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January 2020</li>
-					<li><b>Cell-phone Detector Circuit (simulation)</b><br>
-					Project for Analog Electronics I course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January, 2020</li>
-					<li><b>Temperature Measurement with 8-bit A/D Converter (simulation)</b><br>
-					Project for Instrumentation and Measurement course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
-					<li><b>Arduino Home Alarm System (simulation)</b><br>
-					Project for Embedded Systems course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
-					<li><b>Resistor Color-code Calculator</b><br>
-					Project for Introduction to Engineering course, done in MATLAB GUI; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
-				</ul>
-			<li><u>Trainings, Seminars, Conferences</u>
-				<ul>
-					<li><b>Hydro-power Plants and River Protection in Western Balkans</b><br>
-					<i>Friends of the Earth</i>; Šolta, Croatia; 8th - 13th July, 2017</li>
-					<li><b>Techniques and Ways to Combat Discrimination in the Society</b><br>
-					<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
-					<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
-					<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
-				</ul>
+					<li><u>Projects</u>
+						<ul>
+							<li><b>Meeting Point</b><br>
+							Improvement of the High School's Courtyard, implemented by USAID; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; April, 2016</li>
+							<li><b>Ne želim ništa nego jednu ruku (bos. I Don't Want Anything but One Hand)</b><br>
+							Short story, published by <i>Grammar School Bugojno</i> in a book <i>A Collection of Students' Stories</i>; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 6th April, 2017</li>
+							<li><b>SAME LLC</b><br>
+							Minimum Viable Service Project for Understanding Business course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2019</li>
+							<li><b>ATM Software</b><br>
+							Project for Object-Oriented Programming course, done in C++; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January, 2020</li>
+							<li><b>Slotted Heart-shaped 4.77dB Microstrip Coupler</b><br>
+							Project for Electromagnetism I course, to-be-published; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January 2020</li>
+							<li><b>Cell-phone Detector Circuit (simulation)</b><br>
+							Project for Analog Electronics I course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January, 2020</li>
+							<li><b>Temperature Measurement with 8-bit A/D Converter (simulation)</b><br>
+							Project for Instrumentation and Measurement course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
+							<li><b>Arduino Home Alarm System (simulation)</b><br>
+							Project for Embedded Systems course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
+							<li>Resistor Color-code Calculator</b><br>
+							Project for Introduction to Engineering course, done in MATLAB GUI; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
+						</ul>
+					</li>
+					<li><u>Trainings, Seminars, Conferences</u>
+						<ul>
+							<li><b>Hydro-power Plants and River Protection in Western Balkans</b><br>
+							<i>Friends of the Earth</i>; Šolta, Croatia; 8th - 13th July, 2017</li>
+							<li><b>Techniques and Ways to Combat Discrimination in the Society</b><br>
+							<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
+							<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
+							<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
+						</ul>
+					</li>
 				</ul>
 		<hr>
 		<h2>Contact me:</h2>
