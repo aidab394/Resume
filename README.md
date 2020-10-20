@@ -110,227 +110,236 @@
 			</tr>
 		</table>
 	<hr>
-	<h2>Personal Skills</h2>
-		<ul>
-			<li><u>Skills</u>
+		<h2>Personal Skills</h2>
+			<ul>
+				<li><u>Skills</u>
+					<ul>
+						<li><b>Programming languages:</b><br>
+							C, C++, MATLAB</li>
+						<li><b>Simulating softwares:</b><br>
+						AutoCAD, Multisim, Simulink, Sonnet</li>
+						<li><b>Languages:</b></li><br>
+							<table border="1">
+								<tr bgcolor="#4c69ab" align="center">
+									<th rowspan="2" width="166.5">Language</th>
+									<th colspan="2" width="166.5">UNDERSTANDING</th>
+									<th colspan="2" width="500">SPEAKING</th>
+									<th rowspan="2" width="167">WRITING</th>
+								</tr>
+								<tr bgcolor="#4c69ab" align="center">
+									<th>Listening</th>
+									<th>Reading</th>
+									<th>Spoken Interaction</th>
+									<th>Spoken Production</th>
+								</tr>
+								<tr align="center">
+									<td><i>Bosnian</i></td>
+									<td colspan="5">native</td>
+								</tr>
+								<tr align="center">
+									<td><i>English</i></td>
+									<td>C2</td>
+									<td>C2</td>
+									<td>C2</td>
+									<td>C2</td>
+									<td>C2</td>
+								</tr>
+								<tr align="center">
+									<td><i>German</i></td>
+									<td>B1</td>
+									<td>B1</td>
+									<td>A2</td>
+									<td>A2</td>
+									<td>B1</td>
+								</tr>
+								<tr align="center">
+									<td><i>Turkish</i></td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+								</tr>
+								<tr align="center">
+									<td><i>Russian</i></td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+									<td>A1</td>
+								</tr>
+							</table>
+						<li><b>Driving licence:</b><br>
+						B, B1</li>
+						<li><b>Other skills:</b><br>
+						Organization and planning, creativity, teaching, problem-solving, critical thinking and decision makinng,
+						adaptability, teamwork.</li>
+					</ul>
+				</li>
+				<li><u>Completed courses:</u>
+					<ul>
+						<li><b>Electrical-related:</b><br>
+						Electric Circuits I and II, Analog Electronics I and II, Electromagnetism I,
+						System Modeling and Control, Instrumentation and Measurements</li>
+						<li><b>Programming-related:</b><br>
+						Introduction to Programming, Introduction to Engineering,
+						Object-Oriented Programming, Embedded Systems</li>
+						<li><b>Math/Physics-related:</b><br>
+						Physics, Calculus I and II, Differential Equations</li>
+						<li><b>Other courses:</b><br>
+						Engineering Graphics, Understanding Business, Academic English
+						and Effective Communication, Critical Reading and Writing</li>
+					</ul>
+				</li>
+			</ul>
+			<hr>
+			<h2>Competitions<h/2>
 				<ul>
-					<li><b>Programming languages:</b><br>
-					C, C++, MATLAB</li>
-					<li><b>Simulating softwares:</b><br>
-					AutoCAD, Multisim, Simulink, Sonnet</li>
-					<li><b>Languages:</b></li><br>
-						<table border="1">
-							<tr bgcolor="#4c69ab" align="center">
-								<th rowspan="2" width="166.5">Language</th>
-								<th colspan="2" width="166.5">UNDERSTANDING</th>
-								<th colspan="2" width="500">SPEAKING</th>
-								<th rowspan="2" width="167">WRITING</th>
-							</tr>
-							<tr bgcolor="#4c69ab" align="center">
-								<th>Listening</th>
-								<th>Reading</th>
-								<th>Spoken Interaction</th>
-								<th>Spoken Production</th>
-							</tr>
-							<tr align="center">
-								<td><i>Bosnian</i></td>
-								<td colspan="5">native</td>
-							</tr>
-							<tr align="center">
-								<td><i>English</i></td>
-								<td>C2</td>
-								<td>C2</td>
-								<td>C2</td>
-								<td>C2</td>
-								<td>C2</td>
-							</tr>
-							<tr align="center">
-								<td><i>German</i></td>
-								<td>B1</td>
-								<td>B1</td>
-								<td>A2</td>
-								<td>A2</td>
-								<td>B1</td>
-							</tr>
-							<tr align="center">
-								<td><i>Turkish</i></td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-							</tr>
-							<tr align="center">
-								<td><i>Russian</i></td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-								<td>A1</td>
-							</tr>
-						</table>
-					<li><b>Driving licence:</b><br>
-					B, B1</li>
-					<li><b>Other skills:</b><br>
-					Organization and planning, creativity, teaching, problem-solving, critical thinking and decision making, 
-					adaptability, teamwork.</li>
-				</ul></li>
-			<li><u>Completed courses</u>
-				<ul>
-					<li><b>Electrical-related:</b><br>
-					Electric Circuits I and II, Analog Electronics I and II, Electromagnetism I, 
-					System Modeling and Control, Instrumentation and Measurements</li>
-					<li><b>Programming-related:</b><br>
-					Introduction to Programming, Introduction to Engineering, 
-					Object-Oriented Programming, Embedded Systems</li>
-					<li><b>Math/Physics-related:</b><br>
-					Physics, Calculus I and II, Differential Equations</li>
-					<li><b>Other courses:</b><br>
-					Engineering Graphics, Understanding Business, Academic English 
-					and Effective Communication, Critical Reading and Writing</li>
-				</ul></li>
-		</ul>
-	<hr>
-	<h2>Competitions</h2>
-		<ul>
-			<li><u>English Language and Literature</u>
-				<ul>
-					<li><b>Grammar and Literature</b>
+					<li><u>English Language and Literature</u>
+						<ul>
+							<li><b>Grammar and Literature</b>
+								<table border="1" width="600">
+									<tr bgcolor="#4c69ab" align="center">
+									<th width="250">Place</th>
+									<th width="250">Level</th>
+									<th width="250">Grade</th>
+									<th width="250">Location</th>
+									<th width="250">Date</th>
+								</tr>
+								<tr align="center">
+									<td><b>3<sup>rd</sup> place</b></td>
+									<td>High school</td>
+									<td><i>1<sup>st</sup> grade</i></td>
+									<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>10<sup>th</sup> April, 2015</td>
+								</tr>
+								<tr align="center">
+									<td><b>1<sup>st</sup> place</b></td>
+									<td>High school</td>
+									<td><i>2<sup>nd</sup> grade</i></td>
+									<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>9<sup>th</sup> April, 2016</td>
+								</tr>
+								<tr align="center">
+									<td><b>Semifinalist</b></td>
+									<td>International</td>
+									<td><i>3<sup>rd</sup> grade</i></td>
+									<td>Zenica, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>1<sup>st</sup> April, 2017</td>
+								</tr>
+								<tr align="center">
+									<td><b>1<sup>st</sup> place</b></td>
+									<td>High school</td>
+									<td><i>3<sup>rd</sup> grade</i></td>
+									<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>11<sup>th</sup> April, 2017</td>
+								</tr>
+								<tr align="center">
+									<td><b>1<sup>st</sup> place</b></td>
+									<td>High school</td>
+									<td><i>4<sup>th</sup> grade</i></td>
+									<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>11<sup>th</sup> April, 2018</td>
+								</tr>
+								</table>
+							</li>
+							<li><b>Spelling Bee</b>
+								<table border="1" width="600">
+									<tr bgcolor="#4c69ab" align="center">
+										<th width="250">Place</th>
+										<th width="250">Level</th>
+										<th width="250">Grade</th>
+										<th width="250">Location</th>
+										<th width="250">Date</th>
+									</tr>
+									<tr align="center">
+										<td><b>2<sup>nd</sup> place</b></td>
+										<td>High school</td>
+										<td><i>2<sup>nd</sup> grade</i></td>
+										<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+										<td>1<sup>st</sup> April, 2016</td>
+									</tr>
+									<tr align="center">
+										<td><b>Semifinalist</b></td>
+										<td>Regional</td>
+										<td><i>2<sup>nd</sup> grade</i></td>
+										<td>Mostar, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+										<td>6<sup>th</sup> April, 2016</td>
+									</tr>
+								</table>
+							</li>
+						</ul>
+					</li>
+					<li><u>Physics</u>
 						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
 								<th width="250">Place</th>
 								<th width="250">Level</th>
-								<th width="250">Grade</th>
+								<th width="250">Field</th>
 								<th width="250">Location</th>
 								<th width="250">Date</th>
 							</tr>
 							<tr align="center">
 								<td><b>3<sup>rd</sup> place</b></td>
-								<td>High school</td>
-								<td><i>1<sup>st</sup> grade</i></td>
-								<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>10<sup>th</sup> April, 2015</td>
+								<td>Winter Camp of Physics</td>
+								<td><i>Modern Physics</i></td>
+								<td>Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+								<td>12<sup>th</sup>-16<sup>th</sup> January, 2018</td>
 							</tr>
 							<tr align="center">
-								<td><b>1<sup>st</sup> place</b></td>
+								<td><b>3<sup>rd</sup> place</b></td>
 								<td>High school</td>
-								<td><i>2<sup>nd</sup> grade</i></td>
+								<td><i>Modern Physics</i></td>
 								<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>9<sup>th</sup> April, 2016</td>
+								<td>April, 2018</td>
 							</tr>
 							<tr align="center">
-								<td><b>Semifinalist</b></td>
-								<td>International</td>
-								<td><i>3<sup>rd</sup> grade</i></td>
-								<td>Zenica, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>1<sup>st</sup> April, 2017</td>
-							</tr>
-							<tr align="center">
-								<td><b>1<sup>st</sup> place</b></td>
-								<td>High school</td>
-								<td><i>3<sup>rd</sup> grade</i></td>
-								<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>11<sup>th</sup> April, 2017</td>
-							</tr>
-							<tr align="center">
-								<td><b>1<sup>st</sup> place</b></td>
-								<td>High school</td>
-								<td><i>4<sup>th</sup> grade</i></td>
-								<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>11<sup>th</sup> April, 2018</td>
+								<td><b>4<sup>th</sup> place</b></td>
+								<td>Regional</td>
+								<td><i>Modern Physics</i></td>
+								<td>Donji Vakuf, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+								<td>April, 2018</td>
 							</tr>
 						</table>
-					<li><b>Spelling Bee</b>
+					</li>
+					<li><u>Economy and Management</u>
 						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
-								<th width="250">Place</th>
-								<th width="250">Level</th>
-								<th width="250">Grade</th>
-								<th width="250">Location</th>
-								<th width="250">Date</th>
+								<th>Place</th>
+								<th>Level</th>
+								<th>Competition Name</th>
+								<th>Idea</th>
+								<th>Location</th>
+								<th>Date</th>
 							</tr>
 							<tr align="center">
-								<td><b>2<sup>nd</sup> place</b></td>
-								<td>High school</td>
-								<td><i>2<sup>nd</sup> grade</i></td>
-								<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>1<sup>st</sup> April, 2016</td>
-							</tr>
-							<tr align="center">
-								<td><b>Semifinalist</b></td>
+								<td><b>1<sup>st</sup> place</b></td>
 								<td>Regional</td>
-								<td><i>2<sup>nd</sup> grade</i></td>
-								<td>Mostar, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-								<td>6<sup>th</sup> April, 2016</td>
+								<td><i>Business Challenge 2017</i></td>
+								<td><i>Extreme Camp in Tjentište</i></td>
+								<td>Banja Luka, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+								<td>6<sup>th</sup>April, 2017</td>
 							</tr>
-						</table></li></ul>
-			<li><u>Physics</u>
-				<table border="1" width="600">
-					<tr bgcolor="#4c69ab" align="center">
-						<th width="250">Place</th>
-						<th width="250">Level</th>
-						<th width="250">Field</th>
-						<th width="250">Location</th>
-						<th width="250">Date</th>
-					</tr>
-					<tr align="center">
-						<td><b>3<sup>rd</sup> place</b></td>
-						<td>Winter Camp of Physics</td>
-						<td><i>Modern Physics</i></td>
-						<td>Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>12<sup>th</sup>-16<sup>th</sup> January, 2018</td>
-					</tr>
-					<tr align="center">
-						<td><b>3<sup>rd</sup> place</b></td>
-						<td>High school</td>
-						<td><i>Modern Physics</i></td>
-						<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>April, 2018</td>
-					</tr>
-					<tr align="center">
-						<td><b>4<sup>th</sup> place</b></td>
-						<td>Regional</td>
-						<td><i>Modern Physics</i></td>
-						<td>Donji Vakuf, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>April, 2018</td>
-					</tr>
-				</table>
-			<li><u>Economy and Management</u>
-				<table border="1" width="600">
-					<tr bgcolor="#4c69ab" align="center">
-						<th>Place</th>
-						<th>Level</th>
-						<th>Competition Name</th>
-						<th>Idea</th>
-						<th>Location</th>
-						<th>Date</th>
-					</tr>
-					<tr align="center">
-						<td><b>1<sup>st</sup> place</b></td>
-						<td>Regional</td>
-						<td><i>Business Challenge 2017</i></td>
-						<td><i>Extreme Camp in Tjentište</i></td>
-						<td>Banja Luka, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>6<sup>th</sup>April, 2017</td>
-					</tr>
-					<tr align="center">
-						<td><b>1<sup>st</sup> place</b></td>
-						<td>Country</td>
-						<td><i>Business Challenge 2017</i></td>
-						<td><i>Čičoko - Food is the Cure</i></td>
-						<td>Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-						<td>18<sup>th</sup>-19<sup>th</sup>April, 2017</td>
-					</tr>
-					<tr align="center">
-						<td><b>Finalist</b></td>
-						<td>International</td>
-						<td><i>Western Balkans Business Challenge 2017</i></td>
-						<td><i>OffCourse - Application for Cyclists</i></td>
-						<td>Belgrade, Serbia</td>
-						<td>22<sup>nd</sup>-24<sup>th</sup>April, 2017</td>
-					</tr>
-				</table></li></ul>
-	<hr/>
+							<tr align="center">
+								<td><b>1<sup>st</sup> place</b></td>
+								<td>Country</td>
+								<td><i>Business Challenge 2017</i></td>
+								<td><i>Čičoko - Food is the Cure</i></td>
+								<td>Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+								<td>18<sup>th</sup>-19<sup>th</sup>April, 2017</td>
+							</tr>
+							<tr align="center">
+								<td><b>Finalist</b></td>
+								<td>International</td>
+								<td><i>Western Balkans Business Challenge 2017</i></td>
+								<td><i>OffCourse - Application for Cyclists</i></td>
+								<td>Belgrade, Serbia</td>
+								<td>22<sup>nd</sup>-24<sup>th</sup>April, 2017</td>
+							</tr>
+						</table>
+					</li>
+				</ul>
+		<hr>
 	<h2>Projects and Conferences/Seminars</h2>
 		<ul>
 			<li><u>Projects</u>
@@ -340,7 +349,7 @@
 					<li><b>Ne želim ništa nego jednu ruku (bos. I Don't Want Anything but One Hand)</b><br>
 					Short story, published by <i>Grammar School Bugojno</i> in a book <i>A Collection of Students' Stories</i>; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 6th April, 2017</li>
 					<li><b>SAME LLC</b><br>
-						Minimum Viable Service Project for Understanding Business course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2019</li>
+					Minimum Viable Service Project for Understanding Business course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2019</li>
 					<li><b>ATM Software</b><br>
 					Project for Object-Oriented Programming course, done in C++; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; January, 2020</li>
 					<li><b>Slotted Heart-shaped 4.77dB Microstrip Coupler</b><br>
@@ -362,30 +371,31 @@
 					<i>Prava Za Sve</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 9th - 10th November, 2017</li>
 					<li><b>International Conference on Engineering Entrepreneurship (ICEE) '20</b><br>
 					<i>International University of Sarajevo</i>; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; 15h - 17th October, 2020</li>
-				</ul></ul>
-	<hr>
-	<h2>Contact me:</h2>
-		<form type="get">
-			<table>
-				<tr width="600">
-					<td align="right">First Name: </td>
-					<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
-				</tr>
-				<tr width="600">
-					<td align="right">Surname: </td>
-					<td align="left"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" required></td>
-				</tr>
-				<tr width="600">
-					<td align="right">Your E-mail: </td>
-					<td align="left"><input type="text" name="Email" placeholder="example@example.com" maxlength="30" required></td>
-				</tr>
-				<tr width="600">
-					<td align="right">Your Message: </td>
-					<td align="left"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
-				</tr>
-				<tr width="600">
-					<td></td>
-					<td align="left"><input type="submit" value="Send"><input type="reset" value="Reset"></td>
-				</tr>
-			</table>
-		</form>
+				</ul>
+				</ul>
+		<hr>
+		<h2>Contact me:</h2>
+			<form type="get">
+				<table>
+					<tr width="600">
+						<td align="right">First Name: </td>
+						<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
+					</tr>
+					<tr width="600">
+						<td align="right">Surname: </td>
+						<td align="left"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" required></td>
+					</tr>
+					<tr width="600">
+						<td align="right">Your E-mail: </td>
+						<td align="left"><input type="text" name="Email" placeholder="example@example.com" maxlength="30" required></td>
+					</tr>
+					<tr width="600">
+						<td align="right">Your Message: </td>
+						<td align="left"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
+					</tr>
+					<tr width="600">
+						<td></td>
+						<td align="left"><input type="submit" value="Send"><input type="reset" value="Reset"></td>
+					</tr>
+				</table>
+			</form>
