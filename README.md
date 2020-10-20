@@ -55,7 +55,26 @@
 				</tr>
 			</table>
 	<hr>
-	<h2>Education</h2>
+	<h2>Work Experience</h2>
+		<table border="1">
+			<tr bgcolor="#4c69ab">
+				<th>Title</th>
+				<th>Employer</th>
+				<th>Period</th>
+			</tr>
+			<tr>
+				<td>Volunteer</td>
+				<td><abbr title="Non-govnernmental Organization">NGO</abbr> <i>Prijatelji prirode "Eko Element" Bugojno</i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+				<td>2016-</td>
+			</tr>
+			<tr>
+				<td>Senior Member</td>
+				<td><i>Ecological Association</i> of the Grammar School Bugojno; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+				<td>2014-2018</td>
+			</tr>
+		</table>
+	<hr>
+		<h2>Education</h2>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
 				<th>Level of Education</th>
@@ -90,25 +109,6 @@
 				<td>2006-2014</td>
 			</tr>
 			</table>
-	<hr>
-			<h2>Work Experience</h2>
-		<table border="1">
-			<tr bgcolor="#4c69ab">
-				<th>Title</th>
-				<th>Employer</th>
-				<th>Period</th>
-			</tr>
-			<tr>
-				<td>Volunteer</td>
-				<td><abbr title="Non-govnernmental Organization">NGO</abbr> <i>Prijatelji prirode "Eko Element" Bugojno</i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-				<td>2016-</td>
-			</tr>
-			<tr>
-				<td>Senior Member</td>
-				<td><i>Ecological Association</i> of the Grammar School Bugojno; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-				<td>2014-2018</td>
-			</tr>
-		</table>
 	<hr>
 	<h2>Personal Skills</h2>
 		<ul>
