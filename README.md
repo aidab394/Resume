@@ -16,7 +16,7 @@
 	-->
  </head>
  <body>
- 	<img src="banner4.jpg" alt="Header image" height="490" width="1200" align="top">
+ 	<img src="banner4.jpg" alt="Header image" width="100%" align="top">
 	<h2>Biography</h2>
 		<blockquote>
 			Aida Bevrnja is a Bachelor Student of Electrical Engineering and Electronics at the International University of Sarajevo.
