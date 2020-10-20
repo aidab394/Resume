@@ -388,11 +388,11 @@
 						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="101" required></td>
 					</tr>
 					<tr>
-						<td align="right" width="200">Your E-mail: </td>
+						<td align="right" width="200">E-mail: </td>
 						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="101" maxlength="30" required></td>
 					</tr>
 					<tr>
-						<td align="right" width="200">Your Message: </td>
+						<td align="right" width="200">Message: </td>
 						<td align="left" width="1000"><textarea cols="104" maxlength="1000" rows="10" placeholder="Please type Your message here."></textarea></td>
 					</tr>
 					<tr>
