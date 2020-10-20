@@ -193,7 +193,7 @@
 				</li>
 			</ul>
 			<hr>
-			<h2>Competitions<h/2>
+			<h2>Competitions</h2>
 				<ul>
 					<li><u>English Language and Literature</u>
 						<ul>
