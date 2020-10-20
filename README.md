@@ -119,12 +119,12 @@
 					<li><b>Simulating softwares:</b><br>
 					AutoCAD, Multisim, Simulink, Sonnet</li>
 					<li><b>Languages:</b></li><br>
-						<table border="1" width="1200">
+						<table border="1">
 							<tr bgcolor="#4c69ab" align="center">
-								<th rowspan="2">Language</th>
-								<th colspan="2">UNDERSTANDING</th>
-								<th colspan="2">SPEAKING</th>
-								<th rowspan="2">WRITING</th>
+								<th rowspan="2" width="166.5">Language</th>
+								<th colspan="2" width="166.5">UNDERSTANDING</th>
+								<th colspan="2" width="500">SPEAKING</th>
+								<th rowspan="2" width="167">WRITING</th>
 							</tr>
 							<tr bgcolor="#4c69ab" align="center">
 								<th>Listening</th>
@@ -198,11 +198,11 @@
 					<li><b>Grammar and Literature</b>
 						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
-								<th>Place</th>
-								<th>Level</th>
-								<th>Grade</th>
-								<th>Location</th>
-								<th>Date</th>
+								<th width="250">Place</th>
+								<th width="250">Level</th>
+								<th width="250">Grade</th>
+								<th width="250">Location</th>
+								<th width="250">Date</th>
 							</tr>
 							<tr align="center">
 								<td><b>3<sup>rd</sup> place</b></td>
@@ -243,11 +243,11 @@
 					<li><b>Spelling Bee</b>
 						<table border="1" width="600">
 							<tr bgcolor="#4c69ab" align="center">
-								<th>Place</th>
-								<th>Level</th>
-								<th>Grade</th>
-								<th>Location</th>
-								<th>Date</th>
+								<th width="250">Place</th>
+								<th width="250">Level</th>
+								<th width="250">Grade</th>
+								<th width="250">Location</th>
+								<th width="250">Date</th>
 							</tr>
 							<tr align="center">
 								<td><b>2<sup>nd</sup> place</b></td>
@@ -267,11 +267,11 @@
 			<li><u>Physics</u>
 				<table border="1" width="600">
 					<tr bgcolor="#4c69ab" align="center">
-						<th>Place</th>
-						<th>Level</th>
-						<th>Field</th>
-						<th>Location</th>
-						<th>Date</th>
+						<th width="250">Place</th>
+						<th width="250">Level</th>
+						<th width="250">Field</th>
+						<th width="250">Location</th>
+						<th width="250">Date</th>
 					</tr>
 					<tr align="center">
 						<td><b>3<sup>rd</sup> place</b></td>
@@ -329,8 +329,8 @@
 						<td>Belgrade, Serbia</td>
 						<td>22<sup>nd</sup>-24<sup>th</sup>April, 2017</td>
 					</tr>
-				</table></li>
-	<hr>
+				</table></li></ul>
+	<hr/>
 	<h2>Projects and Conferences/Seminars</h2>
 		<ul>
 			<li><u>Projects</u>
