@@ -54,10 +54,8 @@
 					width="450" height="300" style="border:0;"></iframe></td>
 				</tr>
 			</table>
-		</p>
 	<hr>
 	<h2>Education</h2>
-		<blockquote>
 		<table border="1">
 			<tr bgcolor="#4c69ab">
 				<th>Level of Education</th>
@@ -92,28 +90,25 @@
 				<td>2006-2014</td>
 			</tr>
 		</table>
-			</blockquote>
 	<hr>
-	<h2>Work Experience</h2>
-		<blockquote>
-			<table border="1">
-				<tr bgcolor="#4c69ab">
-					<th>Title</th>
-					<th>Employer</th>
-					<th>Period</th>
-				</tr>
-				<tr>
-					<td>Volunteer</td>
-					<td><abbr title="Non-govnernmental Organization">NGO</abbr> <i>Prijatelji prirode "Eko Element" Bugojno</i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-					<td>2016-</td>
-				</tr>
-				<tr>
-					<td>Senior Member</td>
-					<td><i>Ecological Association</i> of the Grammar School Bugojno; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
-					<td>2014-2018</td>
-				</tr>
-			</table>
-		</blockquote>
+	<h2>Work Experience</h2
+		<table border="1">
+			<tr bgcolor="#4c69ab">
+				<th>Title</th>
+				<th>Employer</th>
+				<th>Period</th>
+			</tr>
+			<tr>
+				<td>Volunteer</td>
+				<td><abbr title="Non-govnernmental Organization">NGO</abbr> <i>Prijatelji prirode "Eko Element" Bugojno</i>, Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+				<td>2016-</td>
+			</tr>
+			<tr>
+				<td>Senior Member</td>
+				<td><i>Ecological Association</i> of the Grammar School Bugojno; Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+				<td>2014-2018</td>
+			</tr>
+		</table>
 	<hr>
 	<h2>Personal Skills</h2>
 		<ul>
@@ -373,23 +368,23 @@
 	<h2>Contact me:</h2>
 		<form type="get">
 			<table>
-				<tr>
+				<tr width="600">
 					<td align="right">First Name: </td>
 					<td align="left"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" required></td>
 				</tr>
-				<tr>
+				<tr width="600">
 					<td align="right">Surname: </td>
 					<td align="left"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" required></td>
 				</tr>
-				<tr>
+				<tr width="600">
 					<td align="right">Your E-mail: </td>
 					<td align="left"><input type="text" name="Email" placeholder="example@example.com" maxlength="30" required></td>
 				</tr>
-				<tr>
+				<tr width="600">
 					<td align="right">Your Message: </td>
 					<td align="left"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
 				</tr>
-				<tr>
+				<tr width="600">
 					<td></td>
 					<td align="left"><input type="submit" value="Send"><input type="reset" value="Reset"></td>
 				</tr>
