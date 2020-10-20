@@ -263,7 +263,7 @@
 								<td>Mostar, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
 								<td>6<sup>th</sup> April, 2016</td>
 							</tr>
-						</table></li>
+						</table></li></ul>
 			<li><u>Physics</u>
 				<table border="1" width="600">
 					<tr bgcolor="#4c69ab" align="center">
