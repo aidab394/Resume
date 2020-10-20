@@ -360,7 +360,7 @@
 							Project for Instrumentation and Measurement course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
 							<li><b>Arduino Home Alarm System (simulation)</b><br>
 							Project for Embedded Systems course; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
-							<li>Resistor Color-code Calculator</b><br>
+							<li><b>Resistor Color-code Calculator</b><br>
 							Project for Introduction to Engineering course, done in MATLAB GUI; Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr>; May, 2020</li>
 						</ul>
 					</li>
@@ -381,19 +381,19 @@
 				<table width="1200" border="1">
 					<tr>
 						<td align="right" width="200">First Name: </td>
-						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="1000" required></td>
+						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="800" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Surname: </td>
-						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="1000" required></td>
+						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="800" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Your E-mail: </td>
-						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="1000" maxlength="30" required></td>
+						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="800" maxlength="30" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Your Message: </td>
-						<td align="left" width="1000"><textarea cols="50" maxlength="500" rows="10" placeholder="Please type Your message." size="1000" ></textarea></td>
+						<td align="left" width="1000"><textarea cols="100" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
 					</tr>
 					<tr>
 						<td width="200"></td>
