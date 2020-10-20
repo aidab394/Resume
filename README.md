@@ -393,7 +393,7 @@
 					</tr>
 					<tr>
 						<td align="right" width="200">Your Message: </td>
-						<td align="left" width="1000"><textarea cols="96" maxlength="500" rows="10" placeholder="Please type Your message."></textarea></td>
+						<td align="left" width="1000"><textarea cols="98" maxlength="1000" rows="10" placeholder="Please type Your message."></textarea></td>
 					</tr>
 					<tr>
 						<td width="200"></td>
