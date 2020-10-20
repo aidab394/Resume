@@ -16,7 +16,7 @@
 	-->
  </head>
  <body>
- 	<img src="banner4.jpg" alt="Header image" height="600" width="1200"align="top">
+ 	<img src="banner4.jpg" alt="Header image" height="600" width="1200" align="top">
 	<h2>Biography</h2>
 		<blockquote>
 			Aida Bevrnja is a Bachelor Student of Electrical Engineering and Electronics at the International University of Sarajevo.
@@ -381,15 +381,15 @@
 				<table width="1200" border="1">
 					<tr>
 						<td align="right" width="200">First Name: </td>
-						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="96" required></td>
+						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="100" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Surname: </td>
-						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="96" required></td>
+						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="100" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Your E-mail: </td>
-						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="96" maxlength="30" required></td>
+						<td align="left" width="1000"><input type="text" name="Email" placeholder="example@example.com" size="100" maxlength="30" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Your Message: </td>
