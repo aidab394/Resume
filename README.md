@@ -26,35 +26,6 @@
 			video games, and charity work, and always enthusiastic about learning new things and volunteering.
 		</blockquote>
 	<hr>
-	<h2>Contact Information</h2>
-		<p>
-			<u>E-mail</u>: <a href="mailto:a.bevrnja@outlook.com">a.bevrnja@outlook.com<a/><br>
-			<u>Phone</u>: +38762861092<br>
-			<u>Facebook</u>: <a href="https://www.facebook.com/BevrnjaAida">Aida Bevrnja</a><br>
-			<u>Instagram</u>: <a href="https://www.instagram.com/aida_b394">@aida_b394</a> and 
-					  <a href="https://www.instagram.com/slytherin_bookworm">@slytherin_bookworm</a><br>
-			<u>Addresses</u>:
-			<table>
-				<tr align="center">
-					<td width="600">Jaklić 1 54</td>
-					<td width="600">Hrasnička cesta 15</td>
-				</tr>
-				<tr align="center">
-					<td width="600">70230 Bugojno</td>
-					<td width="600">71210 Ilidža</td>
-				</tr>
-				<tr align="center">
-					<td width="600">Bosnia and Herzegovina</td>
-					<td width="600">Bosnia and Herzegovina</td>
-				</tr>
-				<tr align="center">	
-					<td width="600"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1433.7997019402615!2d17.452126970953213!3d44.05032993918234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475fa6ee806ea5b3%3A0x4b7e9141aa03e469!2sJakli%C4%87%20I%2C%20Bugojno!5e0!3m2!1sbs!2sba!4v1603210555545!5m2!1sbs!2sba" 
-					width="450" height="300" style="border:0;"></iframe></td>
-					<td width="600"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4230.55566704163!2d18.31044427075536!3d43.82059317114921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa14d6099047dafb9!2sInternacionalni%20Univerzitet%20u%20Sarajevu!5e0!3m2!1sbs!2sba!4v1603210325825!5m2!1sbs!2sba" 
-					width="450" height="300" style="border:0;"></iframe></td>
-				</tr>
-			</table>
-	<hr>
 			<h2>Education</h2>
 			<table border="1">
 				<tr bgcolor="#4c69ab">
@@ -376,16 +347,45 @@
 					</li>
 				</ul>
 		<hr>
+	 <h2>Contact Information</h2>
+		<p>
+			<u>E-mail</u>: <a href="mailto:a.bevrnja@outlook.com">a.bevrnja@outlook.com<a/><br>
+			<u>Phone</u>: +38762861092<br>
+			<u>Facebook</u>: <a href="https://www.facebook.com/BevrnjaAida">Aida Bevrnja</a><br>
+			<u>Instagram</u>: <a href="https://www.instagram.com/aida_b394">@aida_b394</a> and 
+					  <a href="https://www.instagram.com/slytherin_bookworm">@slytherin_bookworm</a><br>
+			<u>Addresses</u>:
+			<table>
+				<tr align="center">
+					<td width="600">Jaklić 1 54</td>
+					<td width="600">Hrasnička cesta 15</td>
+				</tr>
+				<tr align="center">
+					<td width="600">70230 Bugojno</td>
+					<td width="600">71210 Ilidža</td>
+				</tr>
+				<tr align="center">
+					<td width="600">Bosnia and Herzegovina</td>
+					<td width="600">Bosnia and Herzegovina</td>
+				</tr>
+				<tr align="center">	
+					<td width="600"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1433.7997019402615!2d17.452126970953213!3d44.05032993918234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475fa6ee806ea5b3%3A0x4b7e9141aa03e469!2sJakli%C4%87%20I%2C%20Bugojno!5e0!3m2!1sbs!2sba!4v1603210555545!5m2!1sbs!2sba" 
+					width="450" height="300" style="border:0;"></iframe></td>
+					<td width="600"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4230.55566704163!2d18.31044427075536!3d43.82059317114921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa14d6099047dafb9!2sInternacionalni%20Univerzitet%20u%20Sarajevu!5e0!3m2!1sbs!2sba!4v1603210325825!5m2!1sbs!2sba" 
+					width="450" height="300" style="border:0;"></iframe></td>
+				</tr>
+			</table>
+	<hr>
 		<h2>Contact me:</h2>
 			<form type="get">
 				<table width="1200" border="1">
 					<tr>
 						<td align="right" width="200">First Name: </td>
-						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. John" maxlength="30" size="47" required></td>
+						<td align="left" width="1000"><input type="text" name="FirstName" placeholder="Ex. Aida" maxlength="30" size="47" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">Surname: </td>
-						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Doe" maxlength="30" size="47" required></td>
+						<td align="left" width="1000"><input type="text" name="Surname" placeholder="Ex. Bevrnja" maxlength="30" size="47" required></td>
 					</tr>
 					<tr>
 						<td align="right" width="200">E-mail: </td>
