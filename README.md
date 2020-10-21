@@ -42,7 +42,7 @@
 					<td><abbr title="Faculty of Engineering and Natural Sciences">FENS</abbr>, Electrical Engineering and Electronics</td>
 					<td><i><a href="https://www.ius.edu.ba/">International University of Sarajevo</a></i>, Sarajevo, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
 					<td>3.73</td>
-					<td>2018</td>
+					<td>2018-</td>
 				</tr>
 				<tr bgcolor="#4c69ab">
 					<td>High School</td>
@@ -211,6 +211,13 @@
 									<td><i>4<sup>th</sup> grade</i></td>
 									<td>Bugojno, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
 									<td>11<sup>th</sup> April, 2018</td>
+								</tr>
+								<tr align="center">
+									<td><b>3<sup>rd</sup> place</b></td>
+									<td>Regional</td>
+									<td><i>4<sup>th</sup> grade</i></td>
+									<td>Travnik, <abbr title="Bosnia and Herzegovina">BiH</abbr></td>
+									<td>21<sup>st</sup> April, 2018</td>
 								</tr>
 								</table>
 							</li>
